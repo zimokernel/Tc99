@@ -1,2 +1,2 @@
-# Tc99
-c99 interface &amp; implement for TOS
+# Tlibc99
+C99 standard library for the TOS Operating System
